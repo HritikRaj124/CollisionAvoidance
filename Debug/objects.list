@@ -1,0 +1,8 @@
+"./Src/controller.o"
+"./Src/fsm.o"
+"./Src/main.o"
+"./Src/pwm.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Src/uart.o"
+"./Startup/startup_stm32f407vgtx.o"
