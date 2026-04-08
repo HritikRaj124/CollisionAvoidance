@@ -77,12 +77,8 @@ This matches industry‑standard control architectures used in **engine throttle
 ## Challenges Faced
 
 - Debugging silent runtime faults due to FPU enablement
-- Distinguishing compile‑time success from runtime failures
-- Handling observability issues caused by tight execution loops
 - Correcting control‑architecture mistakes through control‑theory review
 - Adapting design to emulator limitations while preserving correctness
-
-These challenges reflect real embedded bring‑up and validation workflows.
 
 ---
 
@@ -98,7 +94,6 @@ Possible extensions include:
 
 ---
 
-## Repository Structure
 ## Skills Demonstrated
 
 - Embedded C (bare‑metal)
